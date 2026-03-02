@@ -2,8 +2,7 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-  // Assumes the repository name is "USRoadTrip"
-  // GitHub Pages URL will be: https://<username>.github.io/USRoadTrip/
+  // GitHub Pages URL will be: https://Santhusha-bit.github.io/USRoadTrip/
   base: '/USRoadTrip/',
   plugins: [react()],
   server: {
