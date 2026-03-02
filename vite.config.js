@@ -14,4 +14,3 @@ export default defineConfig({
     sourcemap: true,
   },
 })
-it
