@@ -6,7 +6,7 @@ An interactive React app for planning the optimal road trip across all 50 US sta
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat&logo=vite)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-## ✨ Features
+## Features
 
 - **Optimal Route** — Near-TSP-optimal path visiting all 50 states (~13,000 road miles)
 - **Complete State Sequence** — All 50 states in order with visual flow
@@ -16,7 +16,7 @@ An interactive React app for planning the optimal road trip across all 50 US sta
 - **9 Pro Tips** — Expert advice on fuel, parks, timing, connectivity, and more
 - **Sticky Navigation** — Tab-based section switching with blur backdrop
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js 18+
@@ -45,7 +45,7 @@ npm run build
 npm run preview
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 usa-road-trip-planner/
@@ -75,7 +75,7 @@ usa-road-trip-planner/
 └── .gitignore
 ```
 
-## 🗺️ The Route
+## The Route
 
 The optimal route follows a near-TSP solution:
 
@@ -91,7 +91,7 @@ The optimal route follows a near-TSP solution:
 
 **Total: ~13,000 road miles + 2 flights · 90 days**
 
-## 💰 Cost Summary (Per Person, Mid-Range)
+## Cost Summary (Per Person, Mid-Range)
 
 | Item | Cost |
 |------|------|
@@ -105,7 +105,7 @@ The optimal route follows a near-TSP solution:
 | Misc | $500 |
 | **Total** | **~$11,843** |
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React 18** — UI framework
 - **Vite 5** — Build tool & dev server
